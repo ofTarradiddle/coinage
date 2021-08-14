@@ -9,7 +9,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 ---
 
 ### This is a header
-
+Yo, This is a test 
 #### Some T-SQL Code
 
 ```tsql
@@ -30,3 +30,7 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+And from here we can see the effect of diversification on our long term portfolio. 
+
+-D.B.O.

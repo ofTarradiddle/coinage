@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Unveiling Alpha in Global Asset Classes
 
-Maybe say a some things about yourself.
+A enovy into the amenity of quantitative research X creativity X empircal vigor
 
-Or maybe what you plan to blog about.
+MS Quant Finance, Sen Quant Researcher
