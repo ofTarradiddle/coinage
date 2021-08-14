@@ -5,13 +5,14 @@ description: "Unveiling Alpha in Quant Strategies" # This will show up in places
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "oftarradiddle@gmail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+twitter_username: ""
+github_username: ""
+linkedin_username: ""
+
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
-#pinterest_username: username
+pinterest_username: of_nectar
 #youtube_username: username
 #googleplus_username: +username
 
