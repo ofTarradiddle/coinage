@@ -4,10 +4,8 @@ title: Data
 permalink: /data/
 ---
 
-## Email us a request for access to our signals & research data
-
-.
-.
+## Data
+Email us a request for access to our signals & research data or to just say hi
 
 
-**Disclaimer:** Investing is Risky. None of this research is investing advice. Email me with questions. 
+
