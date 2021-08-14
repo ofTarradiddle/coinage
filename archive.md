@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Historical Research
 ---
 
 {% for tag in site.tags %}
