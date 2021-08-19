@@ -7,4 +7,3 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, health]
 ---
-
