@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About
+## 
 
 of Nectar is a Quant Research Company
 .
