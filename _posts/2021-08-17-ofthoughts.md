@@ -1,6 +1,11 @@
 ---
 
 tags: [Thoughts]
+
+title: of Becoming
+description: What does it mean to Become, how should man work in this life, and in this world. 
+
+
 ---
 
 ## of Becoming
