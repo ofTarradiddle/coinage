@@ -10,4 +10,4 @@ layout: home
 
 Unveiling Alpha in Global Asset Classes
 
-MS Quant Finance, Sen. Quant Researcher 
+Curious Quant Researchers looking to illuminate the Investing World through the baked epilogues, and falsum plots, that are fed to us on strings by the populous. 
