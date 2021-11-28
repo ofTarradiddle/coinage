@@ -34,6 +34,7 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+url: "https://ofnectar.com" # the base hostname & protocol for your site
 
 defaults:
   - scope:
